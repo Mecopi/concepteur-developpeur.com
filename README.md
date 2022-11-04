@@ -7,8 +7,8 @@
 - [Conventions (English)](convention-en.md)
 - [Documentation des linters (French)](linters-fr.md)
 - [Documentation of linters (English)](linters-en.md)
-- [Les formatters avec Prettier (French)](prettier.md)
-- Formatters with Prettier (English version not available at this moment)
+- [Les formateurs avec Prettier (French)](prettier-fr.md)
+- [Formatters with Prettier (English)](prettier-en.md)
 
 ### Méthode agile (SCRUM) / Agile method (SCRUM)
 
